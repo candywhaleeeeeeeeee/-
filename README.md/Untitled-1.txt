@@ -6,8 +6,8 @@
 
 3.将两个文件拖入虚拟机
 
-3.打开Process Monitor,用img path is not C:\Users\someone\Desktop\homework.exe exclude排除不是homework文件。（试探过程
-
-4.运行homework文件
-
+4.打开Process Monitor,用img path is not C:\Users\someone\Desktop\homework.exe exclude排除不是homework文件。（试探过程
+![](/img/108(1.png)
+![](/img/108(2.png)
+![](/img/108(3.png)
 5.经过一系列试探,用 path ends with.jpg include 找到作业中的图片
