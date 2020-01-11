@@ -1,0 +1,13 @@
+## 使用Process Monitor观察homework.exe 的文件操作过程，找到对应的jpg文件。
+
+1.点击作业链接接受作业，生成新的仓库，配置私钥。
+
+2.在“附件”中下载ProcessMonitor、homework文件
+
+3.将两个文件拖入虚拟机
+
+3.打开Process Monitor,用img path is not C:\Users\someone\Desktop\homework.exe exclude排除不是homework文件。（试探过程
+
+4.运行homework文件
+
+5.经过一系列试探,用 path ends with.jpg include 找到作业中的图片
